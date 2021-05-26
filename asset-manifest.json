@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/srijan450/react-website/static/css/main.e0784362.chunk.css",
+    "main.js": "/srijan450/react-website/static/js/main.fe5530ab.chunk.js",
+    "main.js.map": "/srijan450/react-website/static/js/main.fe5530ab.chunk.js.map",
+    "runtime-main.js": "/srijan450/react-website/static/js/runtime-main.03faf080.js",
+    "runtime-main.js.map": "/srijan450/react-website/static/js/runtime-main.03faf080.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/srijan450/react-website/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a3afebfb.chunk.js": "/srijan450/react-website/static/js/2.a3afebfb.chunk.js",
+    "static/js/2.a3afebfb.chunk.js.map": "/srijan450/react-website/static/js/2.a3afebfb.chunk.js.map",
+    "index.html": "/srijan450/react-website/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/srijan450/react-website/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.e0784362.chunk.css.map": "/srijan450/react-website/static/css/main.e0784362.chunk.css.map",
+    "static/js/2.a3afebfb.chunk.js.LICENSE.txt": "/srijan450/react-website/static/js/2.a3afebfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03faf080.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a3afebfb.chunk.js",
+    "static/css/main.e0784362.chunk.css",
+    "static/js/main.fe5530ab.chunk.js"
+  ]
+}
