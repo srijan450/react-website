@@ -11,10 +11,10 @@ function App() {
         <div className='mainContainer'>
             <Header />
             <Switch>
-                <Route exact path='/' component={Home} />
-                <Route exact path='/services' component={Services} />
-                <Route exact path='/about' component={About} />
-                <Route exact path='/contact' component={Contact} />
+                <Route exact path='/react-website' component={Home} />
+                <Route exact path='/react-website/services' component={Services} />
+                <Route exact path='/react-website/about' component={About} />
+                <Route exact path='/react-website/contact' component={Contact} />
             </Switch>
             <Footer />
         </div>
